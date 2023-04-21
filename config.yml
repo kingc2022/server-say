@@ -1,0 +1,7 @@
+prefix: "&7&l[&6&lServer Say&7&l] &r"
+
+# Placeholder:
+# {{msg}} message
+# WARNING: NOT SUPPORT PLACEHOLDER API
+
+format: "&7[&b&l控制台&7] &7>> {{msg}}"

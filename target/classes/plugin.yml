@@ -1,0 +1,9 @@
+name: server_say
+version: 1.0
+main: org.kingc.server_say.Server_say
+api-version: 1.19
+authors: [ kingc ]
+
+commands:
+  ssay:
+    description: Say a message from console
